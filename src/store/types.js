@@ -1,0 +1,23 @@
+export const SERACH = 'SERACH'
+
+export const SET_SERACH = 'SET_SERACH'
+
+export const SET_PAGE = 'SET_PAGE'
+
+export const SET_USER = 'SET_USER'
+
+export const SET_SIGNIN = 'SET_SIGNIN'
+
+export const SET_COMMODITYID = 'SET_COMMODITYID'
+
+export const SET_PURCHASE = 'SET_PURCHASE'
+
+export const SET_ORDER_OPTION = 'SET_ORDER_OPTION'
+
+export const SET_PURCHASE_ITEM = 'SET_PURCHASE_ITEM'
+
+export const SET_PURCHASE_PLUS = 'SET_PURCHASE_PLUS'
+
+export const SET_PURCHASE_REDUCE = 'SET_PURCHASE_REDUCE'
+
+export const SET_SHOPPING_CART_PURCHASE = 'SET_SHOPPING_CART_PURCHASE'

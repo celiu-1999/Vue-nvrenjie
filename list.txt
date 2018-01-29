@@ -1,0 +1,19 @@
+├─build
+├─config
+├─server               // node后台
+├── index.html         // 项目入口文件
+├── package.json       // 项目配置文件
+├─src
+│  ├─api
+│  ├─assets
+│  ├─base
+│  ├─common
+│  ├─components
+│  ├─router
+│  └─store
+├─static                // 静态资源 img CSS JS Gif font loaders
+│  ├─font
+│  ├─imgs
+│  ├─js
+│  └─svg-loaders
+└─test

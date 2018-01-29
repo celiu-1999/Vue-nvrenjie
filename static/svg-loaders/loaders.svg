@@ -1,0 +1,8 @@
+<svg width="100px"  height="100px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-double-ring" style="background: none;">
+    <circle cx="50" cy="50" ng-attr-r="{{config.radius}}" ng-attr-stroke-width="{{config.width}}" ng-attr-stroke="{{config.c1}}" ng-attr-stroke-dasharray="{{config.dasharray}}" fill="none" stroke-linecap="round" r="30" stroke-width="5" stroke="#f84056" stroke-dasharray="47.12388980384689 47.12388980384689" transform="rotate(165.517 50 50)">
+      <animateTransform attributeName="transform" type="rotate" calcMode="linear" values="0 50 50;360 50 50" keyTimes="0;1" dur="2.9s" begin="0s" repeatCount="indefinite"></animateTransform>
+    </circle>
+    <circle cx="50" cy="50" ng-attr-r="{{config.radius2}}" ng-attr-stroke-width="{{config.width}}" ng-attr-stroke="{{config.c2}}" ng-attr-stroke-dasharray="{{config.dasharray2}}" ng-attr-stroke-dashoffset="{{config.dashoffset2}}" fill="none" stroke-linecap="round" r="24" stroke-width="5" stroke="#10eae3" stroke-dasharray="37.69911184307752 37.69911184307752" stroke-dashoffset="37.69911184307752" transform="rotate(-165.517 50 50)">
+      <animateTransform attributeName="transform" type="rotate" calcMode="linear" values="0 50 50;-360 50 50" keyTimes="0;1" dur="2.9s" begin="0s" repeatCount="indefinite"></animateTransform>
+    </circle>
+  </svg>
