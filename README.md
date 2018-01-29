@@ -7,6 +7,7 @@
 
 > 该项目使用Vue + Node + MongoDB搭建而成
 > Node后台在当前文件夹的 server 目录下
+
 > 数据库下载链接：https://pan.baidu.com/s/1o8VFG4U
 
 > demo地址: http://www.哈士奇.top
