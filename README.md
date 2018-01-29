@@ -5,12 +5,14 @@
 
 ## 简介
 ***
-demo地址: http://www.哈士奇.top
 
-该项目使用Vue + Node + Mongoose搭建而成
-Node后台在当前文件夹的 server 目录下
+> 该项目使用Vue + Node + Mongoose搭建而成
+> Node后台在当前文件夹的 server 目录下
+> 数据库下载链接：https://pan.baidu.com/s/1o8VFG4U
 
-数据库下载链接：https://pan.baidu.com/s/1o8VFG4U
+> demo地址: http://www.哈士奇.top
+> * 手机扫一扫
+![](./static/imgs/QRCode.png)
 
 ## 功能
 ***
