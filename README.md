@@ -2,16 +2,17 @@
 
 前端Vue2.0 + vue-router + vuex + axios + ES6 + less
 后端Node.js + Express + Mongoose
-
+数据库MongoDB
 ## 简介
 ***
 
-> 该项目使用Vue + Node + Mongoose搭建而成
+> 该项目使用Vue + Node + MongoDB搭建而成
 > Node后台在当前文件夹的 server 目录下
 > 数据库下载链接：https://pan.baidu.com/s/1o8VFG4U
 
 > demo地址: http://www.哈士奇.top
 > * 手机扫一扫
+
 ![](./static/imgs/QRCode.png)
 
 ## 功能
@@ -154,38 +155,47 @@
 ## 预览
 ***
 * 登录 - 退出
+
 ![](./static/imgs/Gif/SignIn.gif)
 
 
 * 注册 - 登录
+
 ![](./static/imgs/Gif/login.gif)
 
 
 * 搜索 - 排序 - 筛选
+
 ![](./static/imgs/Gif/search.gif)
 
 
 * 基本信息 - 商品详情 - 评价 - 加入购物车
+
 ![](./static/imgs/Gif/commodity.gif)
 
 
 * 修改商品选项 - 修改商品数量 - 下订单
+
 ![](./static/imgs/Gif/CommodityPurchase.gif)
 
 
 * 创建收货地址 - 设置默认地址 - 删除地址 - 修改地址
+
 ![](./static/imgs/Gif/ReceivingAddress.gif)
 
 
 * 购物车下订单 - 给卖家留言
+
 ![](./static/imgs/Gif/ShoppingCartPayment.gif)
 
 
 * 购物车修改数量 - 购物车全选
+
 ![](./static/imgs/Gif/ShoppingCart.gif)
 
 
 * 修改个人信息 - 修改网名 - 修改email
+
 ![](./static/imgs/Gif/Personal.gif)
 
 
