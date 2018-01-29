@@ -16,7 +16,7 @@
 ![](./static/imgs/QRCode.png)
 
 ## 功能
-***
+
 用户
     
     登录
@@ -153,7 +153,7 @@
 
 
 ## 预览
-***
+
 * 登录 - 退出
 
 ![](./static/imgs/Gif/SignIn.gif)
@@ -200,7 +200,7 @@
 
 
 ## 目录结构
-***
+
 <pre>
 ├─build
 ├─config
@@ -224,7 +224,7 @@
 </pre>
 
 ## 前端
-***
+
 ``` bash
 # install dependencies
 npm install
