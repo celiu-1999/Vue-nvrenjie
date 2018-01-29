@@ -4,7 +4,6 @@
 后端Node.js + Express + Mongoose
 数据库MongoDB
 ## 简介
-***
 
 > 该项目使用Vue + Node + MongoDB搭建而成
 > Node后台在当前文件夹的 server 目录下
@@ -235,12 +234,14 @@ npm run dev
 # build for production with minification
 npm run build
 
-
+```
 ## 后台
-***
+``` bash
 # node
+npm install
 node server/bin/www
 
 # Mongoose
 mongod --dbpath "数据库文件绝对路径"
 
+```
